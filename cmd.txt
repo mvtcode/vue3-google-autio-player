@@ -1,0 +1,2 @@
+docker build -t vue-audio-player .
+docker run --rm -p 8008:80 vue-audio-player
